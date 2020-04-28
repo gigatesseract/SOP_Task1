@@ -1,0 +1,7 @@
+git clone repolink
+
+git branch bname
+
+git checkout master
+
+
