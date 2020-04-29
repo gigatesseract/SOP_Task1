@@ -1,0 +1,9 @@
+The description of the git commands I have used are:
+1. git clone<url>: This was to copy the git repository from the given link by my mentor to the system
+2. git branch<branchname>: This is to create a new branch
+3. git checkout<branch name>: This is to go to a particular branch as by default it is in the main branch
+4. git add <file name>: This is to add a file to the staging area
+5. touch: This is to create a new file
+6. git commit: This is to commit the changes
+7. git merge: This is to merge two branches
+8. git push origin master: This is to send changes to the master branch of your remote repository.
