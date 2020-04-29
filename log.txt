@@ -1,9 +1,0 @@
-git clone - to clone
-git branch- to create a branch
-git checkout  - to switch to a branch
-git add - to add files
-git commit - to commit the file
-git push origin -push to remote repository
-git merge - to merge branches
-touch - to add files
-git status - to check status
