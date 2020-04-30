@@ -1,0 +1,9 @@
+git clone:- used to clone the repository into the local system
+git status:- shows modified files in working directory
+git branch:- lists all the branches
+git branch <branch_name>:- used to create a new branch
+git checkout:- used to change to another branch
+git merge <branch_name>:- used to merge the specified branch into the current branch
+git add:- add a file to the staging area
+git commit -m <message>:- commit a staged content
+all the usual linux commands also (cd,echo,touch,etc)
